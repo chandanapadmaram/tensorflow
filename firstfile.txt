@@ -4,3 +4,4 @@ public static void main (String args [])
 	System.out.println("modified one");
 }
 //edited test
+//editing for cloning
